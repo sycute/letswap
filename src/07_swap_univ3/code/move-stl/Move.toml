@@ -1,0 +1,8 @@
+[package]
+name = "MoveSTL"
+version = "1.2.0"
+
+[dependencies]
+
+[addresses]
+move_stl = "0xc17ce45a12a058c28282833813b025fbc62e83a49cfd98d9a84dfc8058a616c1" #testnet
